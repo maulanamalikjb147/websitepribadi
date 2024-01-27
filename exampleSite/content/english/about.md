@@ -30,20 +30,20 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
+    - name : "Kubernetes"
+      percentage : "90%"
       
     # skill item loop
-    - name : "Graphic Design"
+    - name : "Linux"
       percentage : "85%"
       
     # skill item loop
     - name : "Database Management"
-      percentage : "90%"
+      percentage : "85%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "CI/CD"
+      percentage : "80%"
 
 
 # custom style

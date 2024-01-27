@@ -129,7 +129,7 @@ url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Certificates"
 pre = "#"
 url = "portfolio"
 weight = 4
