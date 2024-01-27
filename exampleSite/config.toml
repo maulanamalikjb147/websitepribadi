@@ -135,12 +135,6 @@ url = "certificates"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Certificates"
-pre = "#"
-url = "portfolio"
-weight = 4
-
-[[Languages.en.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
