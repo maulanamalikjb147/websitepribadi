@@ -5,7 +5,7 @@ image : "images/backgrounds/potrait.png"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "#"
+  link : "cv/cv.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Seorang entusiastis teknologi dengan ketertarikan mendalam terhadap dunia digital dan inovasi teknologi.<br>Berkomitmen untuk terus belajar dan mengikuti perkembangan terbaru dalam industri teknologi.<br>Memiliki keahlian dalam merancang, mengembangkan Cluster.<br>Berpengalaman dalam menggunakan berbagai Tools Cloud.<br>Suka bekerja dalam lingkungan kolaboratif dan selalu mencari peluang untuk berkontribusi dalam proyek-proyek inovatif.<br>Siap untuk tampil dengan ide-ide kreatif dan solusi teknis yang canggih
