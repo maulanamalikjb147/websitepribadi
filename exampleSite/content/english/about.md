@@ -13,22 +13,16 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
-      
-    # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "Application Support"
+      company : "Dans Multipro"
+      duration : "2023-Present"
+      content : "Managed , Troubleshoot , Improvment and Continues Deployment applications using EKS"
+
+     # experience item loop 
+    - name : "Cloud Engginer"
+      company : "Boer Technology"
+      duration : "2022-2023"
+      content : "Managed , Troubleshoot , Improvment and monitoring cluster kubernetes at Openstack cluster"
 
 ############################### Skill #################################
 skill:
