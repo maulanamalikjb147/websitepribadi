@@ -7,11 +7,11 @@ service_list:
   
 # service item loop
 - name : "Infrastructure"
-  image : "images/icons/graphic-design.png"
+  image : "images/icons/infrastructure.png"
   
 # service item loop
 - name : "CI/CD"
-  image : "images/icons/dbms.png"
+  image : "images/icons/cicd.png"
   
 ## service item loop
 #- name : "Software Development"
