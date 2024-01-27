@@ -6,13 +6,13 @@ last_name : "Jabbar budianto"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- "Cloud Engginer"
+- "Devops Engginer"
+- "Application Support"
 
 # slider background image loop
 slider_images:
-- "images/slider/slider-1.jpg"
+- "images/slider/slider-1.png"
 - "images/slider/slider-2.jpg"
 - "images/slider/slider-3.jpg"
 
